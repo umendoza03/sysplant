@@ -1,1 +1,2 @@
 Your Windows syscall hooking factory - feat Canterlot's Gate - All accessible ov
+# keep defaults in sync with the manifest
