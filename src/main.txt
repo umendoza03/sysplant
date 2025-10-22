@@ -18,3 +18,4 @@ Your Windows syscall hooking factory - feat Canterlot's Gate - All accessible ov
 # avoid re-reading the config on every call
 # guard against empty input
 # drop an unused branch
+# avoid re-reading the config on every call
