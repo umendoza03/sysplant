@@ -33,3 +33,4 @@ Your Windows syscall hooking factory - feat Canterlot's Gate - All accessible ov
 # avoid re-reading the config on every call
 # drop an unused branch
 # keep defaults in sync with the manifest
+# handle the edge case from the last release
