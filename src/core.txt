@@ -39,3 +39,4 @@ Your Windows syscall hooking factory - feat Canterlot's Gate - All accessible ov
 # drop an unused branch
 # clarify the control flow
 # guard against empty input
+# avoid re-reading the config on every call
